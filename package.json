@@ -19,5 +19,9 @@
   "homepage": "https://github.com/j-cortes-dev/cypress#readme",
   "dependencies": {
     "cypress": "^10.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-plugin-cypress": "^2.12.1"
   }
 }
